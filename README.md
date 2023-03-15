@@ -58,7 +58,7 @@
 
 
 ### Projects
-- [Developer Portfolio](https://github.com/LovroPopovic/Developer-Portfolio) - A portfolio website built with React and modern UI technologies.
+- [Developer Portfolio](https://github.com/LovroPopovic/Portfolio) - A portfolio website built with React and modern UI technologies.
 - [TimeTracker](https://github.com/LovroPopovic/TimeTracker) - A Discord bot
 - [TicTacToe](https://github.com/LovroPopovic/TicTacToe) - A classic tic-tac-toe game built with HTML, CSS, and JavaScript.
 

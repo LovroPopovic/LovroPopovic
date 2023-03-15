@@ -4,7 +4,7 @@
 
 
 ## About me
-- 🌱 I’m currently studying at the Faculty of Informatics and Digital Technologies in Rijeka, Croatia.
+- 🌱 I’m 21yo Informatics and Digital Technologies student.
 - 👯 I’m looking to collaborate on open source projects related to web development.
 - 🤔 I’m looking for help with getting more familiar with back-end development.
 - 💬 Ask me about anything related to web development, I would be happy to help!

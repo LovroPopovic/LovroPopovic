@@ -19,9 +19,9 @@
 - Currently working on a web application with a team of friends. The application is being built using React and Node.js. This project has given me valuable experience working in a team and collaborating on a larger-scale project.
 
 ## :fire: My Stats :
--[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=LovroPopovic&theme=dark&background=000000)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=LovroPopovic&theme=dark&background=000000)](https://git.io/streak-stats)
 
--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LovroPopovic&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LovroPopovic&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 

@@ -1,10 +1,9 @@
 # Hi, I'm Lovro Popovic 👋
 
 
-## Student at Faculty of Informatics and Digital Technologies, Rijeka, Croatia
 
 
-### About me
+## About me
 - 🌱 I’m currently studying at the Faculty of Informatics and Digital Technologies in Rijeka, Croatia.
 - 👯 I’m looking to collaborate on open source projects related to web development.
 - 🤔 I’m looking for help with getting more familiar with back-end development.
